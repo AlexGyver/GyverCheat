@@ -35,20 +35,20 @@
 <a id="chapter-3"></a>
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-- Arduino NANO http://ali.ski/Ig5U7  http://ali.ski/vEqBs8
-- Вибромотор http://ali.ski/neQOcs  http://ali.ski/dKutk
-- Пачка транзисторов 2N7000 http://ali.ski/RjSgQw  http://ali.ski/xwAnI5
-- Пачка диодов (нужен 1N4001) http://ali.ski/hMY_xK
-- Пачка резисторов (нужны 100R и 10K) http://ali.ski/QOa2GL
-- Пачка выключателей http://ali.ski/4MtF7  http://ali.ski/NYzon
-- Зарядка-защита лития http://ali.ski/tKQn4  http://ali.ski/oaYy7
-- Акум на 100 mah http://ali.ski/luki2  http://ali.ski/AvPRGz
-- MicroSD модуль http://ali.ski/bZ3Ciz  http://ali.ski/7nbiAJ  
+- Arduino NANO https://ali.ski/kxfdF6  https://ali.ski/9TfYf
+- Вибромотор https://ali.ski/Md6bhN  https://ali.ski/OegAt3
+- Пачка транзисторов 2N7000 https://ali.ski/rGU5R  https://ali.ski/WzLZWn
+- Пачка диодов (нужен 1N4001) https://ali.ski/BNyEJK
+- Пачка резисторов (нужны 100R и 10K) https://ali.ski/FR_pwe
+- Пачка выключателей https://ali.ski/OkMiw0  https://ali.ski/akNIHs
+- Зарядка-защита лития https://ali.ski/12jni  https://ali.ski/ifvSLQ
+- Акум на 100 mah https://ali.ski/2gYr8r  https://ali.ski/lgEjS
+- MicroSD модуль https://ali.ski/X06PX  https://ali.ski/B6P04-  
 
 Кнопки
-- Тактовая кнопка http://ali.ski/NIHeV
-- Бесшумная кнопка http://ali.ski/NKmZzx
-- Сенсорный модуль http://ali.ski/6mdXp  http://ali.ski/xBTVl
+- Тактовая кнопка https://ali.ski/Zn0KAd
+- Бесшумная кнопка https://ali.ski/CLa-F
+- Сенсорный модуль https://ali.ski/60yXE  https://ali.ski/Vuy7Rd
 
 ЧипДип:
 - Вибромотор https://www.chipdip.ru/product/vibrating-motor
