@@ -33,30 +33,6 @@
 ![SCHEME](https://github.com/AlexGyver/GyverCheat/blob/master/schemes/scheme3.jpg)
 
 <a id="chapter-3"></a>
-## Материалы и компоненты
-### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-- Arduino NANO http://ali.ski/Ig5U7  http://ali.ski/vEqBs8
-- Вибромотор http://ali.ski/neQOcs  http://ali.ski/dKutk
-- Пачка транзисторов 2N7000 http://ali.ski/RjSgQw  http://ali.ski/xwAnI5
-- Пачка диодов (нужен 1N4001) http://ali.ski/hMY_xK
-- Пачка резисторов (нужны 100R и 10K) http://ali.ski/QOa2GL
-- Пачка выключателей http://ali.ski/4MtF7  http://ali.ski/NYzon
-- Зарядка-защита лития http://ali.ski/tKQn4  http://ali.ski/oaYy7
-- Акум на 100 mah http://ali.ski/luki2  http://ali.ski/AvPRGz
-- MicroSD модуль http://ali.ski/bZ3Ciz  http://ali.ski/7nbiAJ  
-
-Кнопки
-- Тактовая кнопка http://ali.ski/NIHeV
-- Бесшумная кнопка http://ali.ski/NKmZzx
-- Сенсорный модуль http://ali.ski/6mdXp  http://ali.ski/xBTVl
-
-ЧипДип:
-- Вибромотор https://www.chipdip.ru/product/vibrating-motor
-- 100 Ом https://www.chipdip.ru/product0/47324
-- 10 кОм https://www.chipdip.ru/product0/41486
-- Кнопка https://www.chipdip.ru/product/kls7-ts6601-11.0-180-it-1102k
-- Транзистор https://www.chipdip.ru/product/2n7000ta
-
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
 * [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
